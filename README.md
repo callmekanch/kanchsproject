@@ -1,0 +1,4 @@
+kanchsproject
+=============
+
+a encode algorihtm
